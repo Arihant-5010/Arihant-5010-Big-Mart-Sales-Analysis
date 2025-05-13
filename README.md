@@ -18,25 +18,42 @@ This project provides a comprehensive analysis of D-Mart's sales data using Pyth
  Created boxplots for all numerical columns to visualize data spread
 
 **Data Visualization & Analysis**
- Sales & Profit Overview
-Sales Distribution – Distribution of sales values across all transactions
-Profit Distribution – Understanding overall profit trends
-Sales vs Profit (Scatter Plot) – Relationship between sales and profit
-Category-Level Insights
-Sales by Category
+
+** Sales & Profit Overview**
+ 
+**Sales Distribution** – Distribution of sales values across all transactions
+
+**Profit Distribution** – Understanding overall profit trends
+
+**Sales vs Profit (Scatter Plot)** – Relationship between sales and profit
+
+**Category-Level Insights**
+
+**Sales by Category**
+
 Profit Distribution by Category
+
 Sales Contribution by Category
 
+
 **Time-Series Trends**
+
 Monthly Sales Trend
+
 Monthly Sales and Profit Trends
+
 Seasonal Trends in Sales and Profit
+
 Regional & Customer Insights
+
 Sales by Region and Segment
+
 Sales and Profit by Region
+
 Top 10 Cities by Profit
 
 **Product Performance**
+
 Top 10 Products by Sales
 
 **Tools Used**
