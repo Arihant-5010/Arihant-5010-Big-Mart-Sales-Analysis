@@ -1,21 +1,20 @@
 # Arihant-5010-Big-Mart-Sales-Analysis
 This project provides a comprehensive analysis of D-Mart's sales data using Python. The goal is to derive actionable business insights by cleaning the data, performing exploratory data analysis (EDA), and visualizing patterns related to sales, profit, customers, and regions.
 
-📂 Project Workflow
-🔍 1. Data Cleaning & Preprocessing
-✅ Checked for null values
+*** Project Workflow************
+ 1. Data Cleaning & Preprocessing
+ Checked for null values
 
-ℹ️ Explored dataset structure using .info()
+ Explored dataset structure using .info()
 
-🧹 Dropped unnecessary columns to simplify analysis
+ Dropped unnecessary columns to simplify analysis
 
-🗓️ Converted Order Date and Ship Date to datetime format
+ Converted Order Date and Ship Date to datetime format
 
-🧬 Checked and removed duplicate records
+ Checked and removed duplicate records
+Handled outliers using IQR (Interquartile Range) method
 
-📦 Handled outliers using IQR (Interquartile Range) method
-
-📊 Created boxplots for all numerical columns to visualize data spread
+Created boxplots for all numerical columns to visualize data spread
 
 📈 2. Data Visualization & Analysis
 🔸 Sales & Profit Overview
