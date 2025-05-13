@@ -62,8 +62,13 @@ Jupyter Notebook for step-by-step analysis
 
 
 ** Key Insights**
-Sales & Profit Correlation: Higher sales do not always translate to higher profit.
-Top Categories: Technology contributes the most to sales and profit.
-Seasonal Patterns: Notable increase in sales during end-of-year months.
-Customer Segments: Consumer and Corporate segments show different profit margins.
-Regional Differences: Western and Southern regions drive more sales compared to others.
+
+**Sales & Profit Correlation**: Higher sales do not always translate to higher profit.
+
+**Top Categories**: Technology contributes the most to sales and profit.
+
+**Seasonal Patterns**: Notable increase in sales during end-of-year months.
+
+**Customer Segments**: Consumer and Corporate segments show different profit margins.
+
+**Regional Differences**: Western and Southern regions drive more sales compared to others.
