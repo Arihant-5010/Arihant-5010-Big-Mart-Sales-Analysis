@@ -8,9 +8,13 @@ This project provides a comprehensive analysis of D-Mart's sales data using Pyth
 ** Explored dataset structure **
 
  Dropped unnecessary columns to simplify analysis
+ 
  Converted Order Date and Ship Date to datetime format
+ 
  Checked and removed duplicate records
+ 
  Handled outliers using IQR (Interquartile Range) method
+ 
  Created boxplots for all numerical columns to visualize data spread
 
 **Data Visualization & Analysis**
