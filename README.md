@@ -72,3 +72,24 @@ Jupyter Notebook for step-by-step analysis
 **Customer Segments**: Consumer and Corporate segments show different profit margins.
 
 **Regional Differences**: Western and Southern regions drive more sales compared to others.
+
+**Modeling:**
+
+**Applied Random Forest Classifier to train the model.**
+
+Split the data into training (80%) and testing (20%) sets.
+
+**Evaluation Metrics:**
+
+**Accuracy**: 94.99%
+
+**Precision**: 0.91 for High Profit
+
+**Recall**: 0.77 for High Profit
+
+**F1-Score**: 0.83 for High Profit
+
+ **Results**
+The model achieved 94.99% accuracy and effectively identified high-profit transactions with precision and recall that balanced performance for both classes.
+
+The F1-score for high-profit transactions was 0.83, showcasing a strong ability to predict profitable transactions.
