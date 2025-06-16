@@ -1,6 +1,11 @@
 # Arihant-5010-Big-Mart-Sales-Analysis
 This project provides a comprehensive analysis of D-Mart's sales data using Python. The goal is to derive actionable business insights by cleaning the data, performing exploratory data analysis (EDA), and visualizing patterns related to sales, profit, customers, and regions.
 
+Business problem-
+**How can D-Mart identify key drivers of high-profit transactions and optimize product, regional, and customer strategies to boost overall profitability using historical sales data and predictive modeling**
+
+
+
 *** Project Workflow************
  1. Data Cleaning & Preprocessing
     Checked for null values
